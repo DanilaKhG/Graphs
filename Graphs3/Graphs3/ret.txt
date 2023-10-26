@@ -1,0 +1,4 @@
+Bridges:9 13
+10 7
+5 10
+Cut vertices:5 9 7 10 
