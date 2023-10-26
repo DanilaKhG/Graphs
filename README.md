@@ -19,3 +19,4 @@ dotnet run -- -e list_of_edges_t6_009.txt -b -n 20
 dotnet run -- -e list_of_edges_t7_006.txt
 Для 8 работы:
 dotnet run -- -m map_007.txt -n 3 5 -d 7 20
+Задания для работ находятся в папке Tasks
